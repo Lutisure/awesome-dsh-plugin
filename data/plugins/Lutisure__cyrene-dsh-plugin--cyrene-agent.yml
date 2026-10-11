@@ -1,0 +1,6 @@
+﻿url: https://github.com/Lutisure/cyrene-dsh-plugin/tree/main/cyrene-agent
+name: Lutisure/cyrene-dsh-plugin#cyrene-agent
+category: identity
+description:
+  en: 'A character agent with a 132-entry worldbook, long-term memory and a speech-style correction layer. Source text comes from the game''s main story; the result depends on the user''s own tuning.'
+  zh: '角色 agent：132 条设定库、长期记忆，以及一层说话方式修正。文本取自游戏主线剧情，最终呈现效果取决于使用者自己的调教。'
