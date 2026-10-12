@@ -1,6 +1,0 @@
-url: https://github.com/Lutisure/cyrene-dsh-plugin/tree/main/cyrene-guard
-name: Lutisure/cyrene-dsh-plugin#cyrene-guard
-category: security
-description:
-  en: 'A local security scan that runs after a file write, using rule sets ported from DeepSec. It reports findings; it does not block the write.'
-  zh: '写完文件之后跑一遍的本地安全扫描，规则移植自 DeepSec。它只报告，不拦截写入。'
