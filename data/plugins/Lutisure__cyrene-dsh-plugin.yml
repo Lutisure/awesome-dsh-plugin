@@ -2,5 +2,5 @@ url: https://github.com/Lutisure/cyrene-dsh-plugin
 name: Lutisure/cyrene-dsh-plugin
 category: identity
 description:
-  en: 'A Cyrene character agent for DSH, shipping as two presets you can pick in a new session — a 132-entry trigger-word worldbook, long-term memory, a speech-style correction layer, and retrieval over 986 passages of the script, plus the theme and post-write scanner the presets mount. The presets are declared here, not in the subpackages, so this is the row that makes them selectable.'
-  zh: '给 DSH 用的昔涟对话 agent，以两条能在新建会话里选到的预设交付 —— 132 条按触发词的设定库、长期记忆、一层说话方式修正，以及从 986 段剧本原文里按需检索，外加这两条预设要挂的主题和写完之后的安全扫描。预设声明在这个包里而不在子包里，这也正是它们能在新建会话里被选到的原因。'
+  en: 'A Cyrene-themed agent for DSH, with a customizable look (palette, wallpaper, particle effects, background music, typing sound) and a code security scan. It carries a worldbook, long-term memory and a speech-style correction layer (every reader gets their own Cyrene), plus retrieval over the script to back up its answers.'
+  zh: '给 DSH 用的昔涟主题 agent，包括可自定义美化主题（配色、壁纸、粒子效果、背景音乐、打字音效）与代码安全扫描。拥有世界书、长期记忆与说话方式修正（一千个人心中有一千个昔涟），剧情检索增强回答。'
